@@ -1,16 +1,13 @@
 
 # 👋 Hi, I'm Nirmal Singh
 
-I’m an aspiring **Frontend Developer** with a strong foundation in **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, and **React.js**, along with experience integrating backend services using **Appwrite**.
+I’m a Software Developer focused on building clean, responsive, and scalable web applications using modern tools and frameworks, with a strong foundation in JavaScript and React.js.
 
-I have developed a full-fledged blogging platform that showcases my ability to build functional, responsive, and user-focused web applications. This project reflects my hands-on understanding of frontend development and real-world application structure.
+I built BlogSpire, a full-stack blogging platform featuring user authentication, personalized dashboards, post creation with rich-text editing, image uploads, post status toggling, and client-side caching. It’s built using React.js, Redux Toolkit, Tailwind CSS, and Appwrite.
 
-Additionally, I completed a **3-month internship at SRDT Pvt. Ltd., Lucknow**, where I was exposed to core web technologies including HTML, CSS, JavaScript, and React.js, further strengthening my development skills.
+At Impakable Solutions, I handle the end-to-end development cycle of client websites. I primarily use React.js and Tailwind CSS to build responsive, maintainable UIs, adapting based on client design and content needs. Depending on the project, I also work with plain HTML, CSS, and JavaScript for lightweight builds. I handle hosting through cPanel and integrate backend workflows using Google Apps Script for tasks like form submission and data storage.
 
-Currently, I’m working on my **problem-solving skills through DSA** and beginning my journey into backend technologies with the goal of becoming a **Full Stack Developer**.
-
-I’m eager to join a collaborative team where I can apply my skills, continue learning, and grow as a developer.  
-Feel free to check out my projects or connect with me for entry-level opportunities.
+I’m now looking for full-time Software Developer roles where I can work with modern stacks, contribute to meaningful products, and grow as a developer. Previously, I also interned at SRDT Pvt. Ltd., where I gained hands-on experience with HTML, CSS, JavaScript, SQL, and React.js.
 
 ---
 
