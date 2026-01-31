@@ -18,7 +18,7 @@ I take ownership of projects **end to end**—from development and hosting setup
 
 ## 🚀 Key Project Experience
 
-### 🏥 Awadh Member Portal – Membership Management System  
+### 🏥 Awadh Member Portal – Membership Management System  for Awadh Ophthalmological Society, Lucknow
 A full-stack membership management platform developed for a professional medical society.
 
 **Key responsibilities and features:**
@@ -40,7 +40,7 @@ Alongside system development, I build and maintain multiple hospital and clinic 
 - 🎨 Frontend development and UI enhancements  
 - 🌍 Hosting and domain management using cPanel  
 - 📬 Contact form workflows via Google Apps Script  
-- 🛠 Post-launch support, feature additions, and production fixes  
+- 🛠 Post-launch support, feature additions, and production fixes
 
 ---
 
@@ -75,4 +75,5 @@ I am looking to transition into a role that involves **more complex, large-scale
 ## 📫 Contact
 
 - 🔗 LinkedIn: https://linkedin.com/in/nirmal01  
-- 💻 GitHub: https://github.com/shivaygit4390  
+- 💻 GitHub: https://github.com/shivaygit4390
+- +91 7985405458 | nirmalsingh9838797128@gmail.com 
