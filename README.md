@@ -12,7 +12,7 @@ I work across both frontend and backend layers of modern web applications.
 On the frontend, I build responsive and maintainable interfaces using **React.js** and **Tailwind CSS**.  
 On the backend, I develop APIs and integrations using **Node.js**, **Express**, and **Supabase**, handling authentication, role-based access control, secure data storage, and third-party services.
 
-I take ownership of projects **end to end**—from development and hosting setup to deployment, monitoring, and post-launch maintenance. My experience includes working with payment systems, OTP workflows, document management, admin dashboards, and resolving production issues in live environments.
+I take ownership of projects **end to end**, from development and hosting setup to deployment, monitoring, and post-launch maintenance. My experience includes working with payment systems, OTP workflows, document management, admin dashboards, and resolving production issues in live environments.
 
 ---
 
