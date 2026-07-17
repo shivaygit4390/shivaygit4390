@@ -20,11 +20,11 @@ I specialize in developing <strong>scalable, secure, and maintainable full-stack
 
 <p align="center">
 
-<a href="https://linkedin.com/in/nirmal01">
+<a href="https://linkedin.com/in/nirmal01" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://nirmalsingh.netlify.app">
+<a href="https://nirmalsingh.netlify.app" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
@@ -53,9 +53,9 @@ I take ownership of projects **end to end**, from requirement analysis and devel
 ### 🏥 Awadh Membership Management System – Awadh Ophthalmological Society
 
 <p>
-  
-<a href="https://aoslucknow.in/login">
-  <img src="https://img.shields.io/badge/Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+<a href="https://aoslucknow.in/login" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
@@ -81,8 +81,8 @@ A production-ready full-stack membership management platform developed for a pro
 
 <p>
 
-<a href="https://spandanheartech.com">
-  <img src="https://img.shields.io/badge/Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://spandanheartech.com" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
@@ -103,7 +103,9 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 ### 💻 Languages
 
 <p>
-<img height="38" src="https://skillicons.dev/icons?i=js,cpp,postgres" />
+<a aria-disabled="true">
+<img height="38" src="https://skillicons.dev/icons?i=js,cpp,postgres"/>
+</a>
 </p>
 
 <p>
@@ -115,7 +117,9 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 ### 🎨 Frontend
 
 <p>
-<img height="38" src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<a aria-disabled="true">
+<img height="38" src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+</a>
 </p>
 
 <p>
@@ -127,7 +131,9 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 ### ⚙️ Backend
 
 <p>
-<img height="38" src="https://skillicons.dev/icons?i=nodejs,express" />
+<a aria-disabled="true">
+<img height="38" src="https://skillicons.dev/icons?i=nodejs,express"/>
+</a>
 </p>
 
 <p>
@@ -135,7 +141,9 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 </p>
 
 <p>
+<a aria-disabled="true">
 <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
+</a>
 </p>
 
 ---
@@ -143,7 +151,9 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 ### 🗄 Database & BaaS
 
 <p>
-<img height="38" src="https://skillicons.dev/icons?i=postgres,supabase" />
+<a aria-disabled="true">
+<img height="38" src="https://skillicons.dev/icons?i=postgres,supabase"/>
+</a>
 </p>
 
 <p>
@@ -152,11 +162,17 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 
 <p>
 
+<a aria-disabled="true">
 <img src="https://img.shields.io/badge/Authentication-4CAF50?style=flat-square"/>
+</a>
 
+<a aria-disabled="true">
 <img src="https://img.shields.io/badge/Storage-607D8B?style=flat-square"/>
+</a>
 
+<a aria-disabled="true">
 <img src="https://img.shields.io/badge/Row_Level_Security_(RLS)-181818?style=flat-square"/>
+</a>
 
 </p>
 
@@ -166,13 +182,21 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 
 <p>
 
+<a aria-disabled="true">
 <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google-gemini&logoColor=white"/>
+</a>
 
+<a aria-disabled="true">
 <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
+</a>
 
+<a aria-disabled="true">
 <img src="https://img.shields.io/badge/Fast2SMS-FF9800?style=flat-square"/>
+</a>
 
+<a aria-disabled="true">
 <img src="https://img.shields.io/badge/Cloudflare_Turnstile-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+</a>
 
 </p>
 
@@ -181,7 +205,9 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 ### 🚀 Tools & Deployment
 
 <p>
-<img height="38" src="https://skillicons.dev/icons?i=git,github,vercel" />
+<a aria-disabled="true">
+<img height="38" src="https://skillicons.dev/icons?i=git,github,vercel"/>
+</a>
 </p>
 
 <p>
@@ -190,9 +216,13 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 
 <p>
 
+<a aria-disabled="true">
 <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white"/>
+</a>
 
+<a aria-disabled="true">
 <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white"/>
+</a>
 
 </p>
 
@@ -210,11 +240,11 @@ My goal is to continuously strengthen my expertise in full-stack development, ba
 
 <p align="center">
 
-<a href="https://linkedin.com/in/nirmal01">
+<a href="https://linkedin.com/in/nirmal01" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://nirmalsingh.netlify.app">
+<a href="https://nirmalsingh.netlify.app" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
