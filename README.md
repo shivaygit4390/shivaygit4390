@@ -53,9 +53,9 @@ I take ownership of projects **end to end**, from requirement analysis and devel
 ### 🏥 Awadh Membership Management System – Awadh Ophthalmological Society
 
 <p>
-
+  
 <a href="https://aoslucknow.in/login">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_AOS-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
@@ -82,7 +82,7 @@ A production-ready full-stack membership management platform developed for a pro
 <p>
 
 <a href="https://spandanheartech.com">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Spandan-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
