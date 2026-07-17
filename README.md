@@ -208,6 +208,7 @@ My goal is to continuously strengthen my expertise in full-stack development, ba
 
 <p align="center">
 
+
 <a href="https://linkedin.com/in/nirmal01" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -220,6 +221,20 @@ My goal is to continuously strengthen my expertise in full-stack development, ba
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>📧 Email:</strong>
+  <a href="mailto:nirmalsingh9838797128@gmail.com">
+    nirmalsingh9838797128@gmail.com
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>📞 Phone:</strong>
+  <a href="tel:+919838797128">
+    +91 98387 97128
+  </a>
 </p>
 
 ---
