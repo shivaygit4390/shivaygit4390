@@ -1,79 +1,117 @@
-# 👋 Hi, I'm Nirmal Singh
+<h1 align="center">Hi 👋, I'm Nirmal Singh</h1>
 
-💼 **Full-Stack Web Developer** with 1+ year of professional experience, currently working at **Impakable Solutions**, building and maintaining production-ready web applications for real clients.
+<h3 align="center">
+Software Engineer | Full-Stack Developer | React • Node.js • PostgreSQL
+</h3>
 
-I specialize in developing **scalable, maintainable, and secure systems**, with hands-on ownership across frontend, backend integrations, deployment, and ongoing production support.
-
----
-
-## 🧩 Professional Summary
-
-I work across both frontend and backend layers of modern web applications.  
-On the frontend, I build responsive and maintainable interfaces using **React.js** and **Tailwind CSS**.  
-On the backend, I develop APIs and integrations using **Node.js**, **Express**, and **Supabase**, handling authentication, role-based access control, secure data storage, and third-party services.
-
-I take ownership of projects **end to end**, from development and hosting setup to deployment, monitoring, and post-launch maintenance. My experience includes working with payment systems, OTP workflows, document management, admin dashboards, and resolving production issues in live environments.
+<p align="center">
+Building production-ready web applications, backend systems, AI-powered features and scalable web solutions.
+</p>
 
 ---
 
-## 🚀 Key Project Experience
+## 👨‍💻 About Me
 
-### 🏥 Awadh Member Portal – Membership Management System  for Awadh Ophthalmological Society, Lucknow
-A full-stack membership management platform developed for a professional medical society.
-
-**Key responsibilities and features:**
-- 🔐 Secure member onboarding with OTP-based authentication  
-- 👥 Role-based dashboards for members and administrators  
-- 💳 Membership plans with Razorpay payment integration  
-- 📁 Secure document uploads using Supabase Storage with RLS  
-- 📊 Admin console with analytics, user management, exports, and audit logs  
-- 📣 Events and announcements management  
-- ⚙️ Deployment, production support, and ongoing maintenance  
-
-This is a **live, actively used system**, fully owned and maintained end to end.
+- 💼 Software Engineer with **1.5+ years** of professional experience
+- 🏢 Currently working at **Impakable Solutions**
+- 🚀 Building **production-ready full-stack applications**
+- ⚙️ Experienced in **React, Node.js, Express.js, PostgreSQL (Supabase)**
+- 🔐 Worked on **Authentication, RBAC, Payments, AI Integrations, REST APIs**
+- 🌱 Currently improving **Backend Engineering, PostgreSQL & System Design**
+- 🎯 Looking for **Software Engineer / Full Stack Developer** opportunities
 
 ---
 
-## 🌐 Client Website Development
+## 🚀 Featured Projects
 
-Alongside system development, I build and maintain multiple hospital and clinic websites, handling:
-- 🎨 Frontend development and UI enhancements  
-- 🌍 Hosting and domain management using cPanel  
-- 📬 Contact form workflows via Google Apps Script  
-- 🛠 Post-launch support, feature additions, and production fixes
+### 🏥 Awadh Membership Management System
 
----
+Production-ready Membership Management System built for Awadh Ophthalmological Society.
 
-## 🛠 Technical Skills
+✨ Features
 
-### 🎨 Frontend Development  
-`React.js` • `Redux Toolkit` • `JavaScript (ES6+)` • `HTML5` • `CSS3` • `Tailwind CSS`
-
-### ⚙️ Backend & APIs  
-`Node.js` • `Express.js` • `REST APIs`
-
-### 🗄 Database & BaaS  
-`Supabase (Auth, Postgres, Storage, RLS)` • `SQL`
-
-### 💳 Payments & Integrations  
-`Razorpay` • `Fast2SMS (OTP)` • `Google Apps Script`
-
-### ☁️ Hosting & Deployment  
-`Vercel` • `cPanel`
-
-### 🔧 Tools & Workflow  
-`Git` • `GitHub`
+- Authentication & Authorization
+- Member Lifecycle Management
+- Approval & Referral Workflows
+- Razorpay Payment Integration
+- Secure Document Management
+- Supabase RLS
+- Admin Dashboard
+- REST APIs
 
 ---
 
-## 🎯 Career Objective
+### 🤖 Spandan HearTech
 
-I am looking to transition into a role that involves **more complex, large-scale systems**, deeper backend responsibilities, and continued growth as a full-stack engineer. I am particularly interested in working on products where I can contribute to **system design, scalability, and long-term technical evolution**, while continuously strengthening my skills through challenging real-world problems.
+AI-powered Hearing Aid Recommendation Platform.
+
+✨ Features
+
+- Gemini AI Recommendation Engine
+- Personalized Product Suggestions
+- Cloudflare Turnstile
+- Secure AI Workflows
+- Intelligent Recommendation Logic
 
 ---
 
-## 📫 Contact
+## 💻 Tech Stack
 
-- 🔗 LinkedIn: https://linkedin.com/in/nirmal01  
-- 💻 GitHub: https://github.com/shivaygit4390
-- +91 7985405458 | nirmalsingh9838797128@gmail.com 
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
+
+### Integrations
+
+Gemini API • Razorpay • Fast2SMS • Cloudflare Turnstile
+
+### Deployment
+
+Git • GitHub • Vercel • cPanel • Google Apps Script
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivaygit4390&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaygit4390&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+🌐 Portfolio  
+https://nirmalsingh.netlify.app
+
+💼 LinkedIn  
+https://linkedin.com/in/nirmal01
+
+📧 Email  
+nirmalsingh9838797128@gmail.com
+
+⭐ If you like my work, don't forget to star my repositories.
