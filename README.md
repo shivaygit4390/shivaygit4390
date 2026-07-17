@@ -2,9 +2,9 @@
 
 <h1 align="center">👋 Hi, I'm Nirmal Singh</h1>
 
-<h3 align="center">
-Software Engineer • Full-Stack Developer • Backend Enthusiast
-</h3>
+<p align="center">
+<strong>Software Engineer • Full-Stack Developer • Backend Enthusiast</strong>
+</p>
 
 <p align="center">
 <strong>1.5+ Years of Professional Experience</strong>
@@ -36,7 +36,7 @@ I specialize in developing <strong>scalable, secure, and maintainable full-stack
 
 ---
 
-# 🧩 Professional Summary
+## 🧩 Professional Summary
 
 I work across both frontend and backend layers of modern web applications.
 
@@ -48,9 +48,9 @@ I take ownership of projects **end to end**, from requirement analysis and devel
 
 ---
 
-# 🚀 Key Project Experience
+## 🚀 Key Project Experience
 
-## 🏥 Awadh Membership Management System – Awadh Ophthalmological Society
+### 🏥 Awadh Membership Management System – Awadh Ophthalmological Society
 
 <p>
 
@@ -62,22 +62,22 @@ I take ownership of projects **end to end**, from requirement analysis and devel
 
 A production-ready full-stack membership management platform developed for a professional medical society.
 
-### ✨ Key Responsibilities & Features
+#### ✨ Key Responsibilities & Features
 
-- 🔐 Secure authentication and member onboarding
-- 👥 Role-based member and administrative operations
-- 💳 Membership plans with Razorpay payment integration
-- ✅ Approval and referral workflow automation
-- 📁 Secure document management using Supabase Storage with Row Level Security (RLS)
-- 📊 Administrative portal for members, payments, plans, events, and operational workflows
-- 📣 Announcements and event management
-- ⚙️ REST API development, deployment, production support, and ongoing maintenance
+* 🔐 Secure authentication and member onboarding
+* 👥 Role-based member and administrative operations
+* 💳 Membership plans with Razorpay payment integration
+* ✅ Approval and referral workflow automation
+* 📁 Secure document management using Supabase Storage with Row Level Security (RLS)
+* 📊 Administrative portal for members, payments, plans, events, and operational workflows
+* 📣 Announcements and event management
+* ⚙️ REST API development, deployment, production support, and ongoing maintenance
 
 > 🚀 This is a **live production system** that I actively design, enhance, and maintain end to end.
 
 ---
 
-## 🤖 Spandan HearTech – AI-Powered Hearing Aid Recommender
+### 🤖 Spandan HearTech – AI-Powered Hearing Aid Recommender
 
 <p>
 
@@ -89,21 +89,25 @@ A production-ready full-stack membership management platform developed for a pro
 
 An AI-powered hearing-care platform that helps users discover suitable hearing aids based on their requirements.
 
-### ✨ Key Features
+#### ✨ Key Features
 
-- 🧠 Gemini-powered recommendation engine for personalized product suggestions
-- 🔍 Intelligent product recommendations based on user preferences
-- 🛡️ Cloudflare Turnstile integration for secure AI workflows
-- 🔄 Fallback recommendation logic for uninterrupted recommendations
+* 🧠 Gemini-powered recommendation engine for personalized product suggestions
+* 🔍 Intelligent product recommendations based on user preferences
+* 🛡️ Cloudflare Turnstile integration for secure AI workflows
+* 🔄 Fallback recommendation logic for uninterrupted recommendations
 
 ---
 
-# 🛠 Technical Skills
+## 🛠 Technical Skills
 
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,cpp,postgres" />
+<img height="38" src="https://skillicons.dev/icons?i=js,cpp,postgres" />
+</p>
+
+<p>
+<sub><strong>JavaScript&nbsp;&nbsp;•&nbsp;&nbsp;C++&nbsp;&nbsp;•&nbsp;&nbsp;SQL / PostgreSQL</strong></sub>
 </p>
 
 ---
@@ -111,7 +115,11 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img height="38" src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+<p>
+<sub><strong>React.js&nbsp;&nbsp;•&nbsp;&nbsp;HTML5&nbsp;&nbsp;•&nbsp;&nbsp;CSS3&nbsp;&nbsp;•&nbsp;&nbsp;Tailwind CSS</strong></sub>
 </p>
 
 ---
@@ -119,13 +127,15 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img height="38" src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 <p>
+<sub><strong>Node.js&nbsp;&nbsp;•&nbsp;&nbsp;Express.js</strong></sub>
+</p>
 
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-
+<p>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
 </p>
 
 ---
@@ -133,16 +143,20 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 ### 🗄 Database & BaaS
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,supabase" />
+<img height="38" src="https://skillicons.dev/icons?i=postgres,supabase" />
+</p>
+
+<p>
+<sub><strong>PostgreSQL&nbsp;&nbsp;•&nbsp;&nbsp;Supabase</strong></sub>
 </p>
 
 <p>
 
-<img src="https://img.shields.io/badge/Authentication-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authentication-4CAF50?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Storage-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Storage-607D8B?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Row_Level_Security_(RLS)-181818?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Row_Level_Security_(RLS)-181818?style=flat-square"/>
 
 </p>
 
@@ -152,13 +166,13 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 
 <p>
 
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google-gemini&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Fast2SMS-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fast2SMS-FF9800?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Cloudflare_Turnstile-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare_Turnstile-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
 
 </p>
 
@@ -167,40 +181,24 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 ### 🚀 Tools & Deployment
 
 <p>
+<img height="38" src="https://skillicons.dev/icons?i=git,github,vercel" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel" />
-
+<p>
+<sub><strong>Git&nbsp;&nbsp;•&nbsp;&nbsp;GitHub&nbsp;&nbsp;•&nbsp;&nbsp;Vercel</strong></sub>
 </p>
 
 <p>
 
-<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white"/>
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivaygit4390&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaygit4390&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=shivaygit4390&theme=github-dark&hide_border=true"/>
+<img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white"/>
 
 </p>
 
 ---
 
-# 🎯 Career Objective
+## 🎯 Career Objective
 
 I am looking to contribute as a **Software Engineer** in product-driven teams where I can build scalable applications, solve engineering challenges, and work on production systems with greater technical ownership.
 
@@ -208,7 +206,7 @@ My goal is to continuously strengthen my expertise in full-stack development, ba
 
 ---
 
-# 📫 Connect with Me
+## 📫 Connect with Me
 
 <p align="center">
 
