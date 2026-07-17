@@ -1,8 +1,14 @@
+<!-- ========================= HERO SECTION ========================= -->
+
 <h1 align="center">👋 Hi, I'm Nirmal Singh</h1>
 
 <h3 align="center">
-💼 <strong>Software Engineer</strong> with <strong>1.5+ years</strong> of professional experience
+Software Engineer • Full-Stack Developer • Backend Enthusiast
 </h3>
+
+<p align="center">
+<strong>1.5+ Years of Professional Experience</strong>
+</p>
 
 <p align="center">
 Currently working at <strong>Impakable Solutions</strong>, designing, building, and maintaining production-ready web applications for real clients.
@@ -10,6 +16,22 @@ Currently working at <strong>Impakable Solutions</strong>, designing, building, 
 
 <p align="center">
 I specialize in developing <strong>scalable, secure, and maintainable full-stack applications</strong>, with hands-on ownership across frontend development, backend engineering, API integrations, deployment, and production support.
+</p>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/nirmal01">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://nirmalsingh.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:nirmalsingh9838797128@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -31,14 +53,16 @@ I take ownership of projects **end to end**, from requirement analysis and devel
 ## 🏥 Awadh Membership Management System – Awadh Ophthalmological Society
 
 <p>
+
 <a href="https://aoslucknow.in/login">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_AOS-0A66C2?style=for-the-badge"/>
 </a>
+
 </p>
 
 A production-ready full-stack membership management platform developed for a professional medical society.
 
-### ✨ Key responsibilities and features
+### ✨ Key Responsibilities & Features
 
 - 🔐 Secure authentication and member onboarding
 - 👥 Role-based member and administrative operations
@@ -49,21 +73,23 @@ A production-ready full-stack membership management platform developed for a pro
 - 📣 Announcements and event management
 - ⚙️ REST API development, deployment, production support, and ongoing maintenance
 
-> This is a **live production system** that I actively design, enhance, and maintain end to end.
+> 🚀 This is a **live production system** that I actively design, enhance, and maintain end to end.
 
 ---
 
 ## 🤖 Spandan HearTech – AI-Powered Hearing Aid Recommender
 
 <p>
-<a href="https://spandanheartech.com/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-0A66C2?style=for-the-badge"/>
+
+<a href="https://spandanheartech.com">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Spandan-0A66C2?style=for-the-badge"/>
 </a>
+
 </p>
 
 An AI-powered hearing-care platform that helps users discover suitable hearing aids based on their requirements.
 
-### ✨ Key features
+### ✨ Key Features
 
 - 🧠 Gemini-powered recommendation engine for personalized product suggestions
 - 🔍 Intelligent product recommendations based on user preferences
@@ -74,68 +100,102 @@ An AI-powered hearing-care platform that helps users discover suitable hearing a
 
 # 🛠 Technical Skills
 
-## 💻 Languages
+### 💻 Languages
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=js,cpp,postgres" />
 </p>
 
 ---
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
 ---
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<p>
+
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🗄 Database & BaaS
+### 🗄 Database & BaaS
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase" />
+</p>
+
+<p>
+
 <img src="https://img.shields.io/badge/Authentication-4CAF50?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Storage-607D8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RLS-181818?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Row_Level_Security_(RLS)-181818?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🔗 Integrations
+### 🔗 Integrations
 
 <p>
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Fast2SMS-FF9800?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Cloudflare_Turnstile-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🚀 Tools & Deployment
+### 🚀 Tools & Deployment
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel" />
+
+</p>
+
+<p>
+
 <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivaygit4390&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaygit4390&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shivaygit4390&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
@@ -148,9 +208,10 @@ My goal is to continuously strengthen my expertise in full-stack development, ba
 
 ---
 
-# 📫 Contact
+# 📫 Connect with Me
 
-<p>
+<p align="center">
+
 <a href="https://linkedin.com/in/nirmal01">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -160,6 +221,13 @@ My goal is to continuously strengthen my expertise in full-stack development, ba
 </a>
 
 <a href="mailto:nirmalsingh9838797128@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
 </p>
