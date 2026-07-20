@@ -232,8 +232,8 @@ My goal is to continuously strengthen my expertise in full-stack development, ba
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <strong>📞 Phone:</strong>
-  <a href="tel:+919838797128">
-    +91 98387 97128
+  <a href="tel:+917985405458">
+    +91 7985405458
   </a>
 </p>
 
